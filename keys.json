@@ -1,0 +1,22 @@
+{
+  "keys": {
+    "FIRE-DEMO-KEY-123": {
+      "created": "2026-01-16T00:00:00Z",
+      "expires": "2026-02-16T00:00:00Z",
+      "duration_days": 31,
+      "last_used": "2026-01-16T00:00:00Z",
+      "hwid": null,
+      "note": "Demo key - 31 days"
+    },
+    "FIRE-LIFETIME-456": {
+      "created": "2026-01-16T00:00:00Z",
+      "expires": null,
+      "duration_days": -1,
+      "last_used": null,
+      "hwid": null,
+      "note": "Lifetime key"
+    }
+  },
+  "version": "1.0",
+  "last_updated": "2026-01-16T00:00:00Z"
+}
